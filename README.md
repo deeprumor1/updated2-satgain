@@ -4,4 +4,4 @@ the custom look and feel is not re usable :)
 nor is the process code:) , u may not copy it , but if u re structure it then yes go ahead
 that is created by me and I own the rights to its creation
 
-tho you can look at it and re use
+tho you can look at it
